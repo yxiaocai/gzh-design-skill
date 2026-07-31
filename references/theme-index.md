@@ -14,6 +14,7 @@
 | 留白禅意风 | `#4A5D52` 墨绿 | 禅意冥想、极简生活、深度随笔、艺术留白（呼吸感最强） | `references/theme-zen-whitespace.md` | `border-bottom:1.5px solid #B5C8BC;font-weight:500;` |
 | 摸鱼票据风 | `#059669` emerald | 测评、工具对比、创意评测（票据/门票视觉隐喻，星级评分+编号+硬阴影卡片） | `references/theme-moyu-ticket.md` | `border-bottom:2px solid #A7F3D0;font-weight:600;` |
 | 橄榄手记 | `#1e1f23` 墨黑（配橙 `#ed7b2f`） | 内刊手记、深度评测、案例复盘、系统性说明文档（编辑部内刊质感，分节形式多样，信息密度偏高） | `references/theme-olive-journal.md` | `border-bottom:2px solid #ed7b2f;font-weight:600;` |
+| 文献共读 | `#001E5B` 海军蓝（配紫 `#69318E`） | 文献共读、临床研究解读、医学科普速递、指南摘要（深蓝刊头+紫框题卡+IMRaD 分节+来源脚注） | `references/theme-lit-co-read.md` | `border-bottom:2px solid #C4B5FD;font-weight:600;` |
 
 ## 选择建议
 
